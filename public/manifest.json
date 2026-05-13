@@ -1,0 +1,19 @@
+{
+  "short_name": "TrustVerified",
+  "name": "TrustVerified — Business Trust Ratings",
+  "description": "Community-powered scam detection and business trust ratings.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#070b10",
+  "background_color": "#070b10",
+  "scope": "/",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
